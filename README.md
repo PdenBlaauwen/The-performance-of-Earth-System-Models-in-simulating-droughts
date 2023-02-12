@@ -1,1 +1,1 @@
-# The-performancne-of-climate-models-in-simulating-droughts
+# The-performance-of-climate-models-in-simulating-droughts
