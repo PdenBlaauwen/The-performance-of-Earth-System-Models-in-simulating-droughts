@@ -6,11 +6,11 @@ Within the Earth System Models, the focus was on the Land Surface Models. East B
 
 Each study area has three files:
 
-The first file is the main file that focuses on the performance of the LSMs through various evaluation steps.
+The file that ends with "monthly" or "essentials" is the main file that focuses on the performance of the LSMs through various evaluation steps. The "essentials" file is the summary of the more elaborate "monthly" code. 
 The mrsol file looks at the soil moisture output of the LSMs.
 The SoMo.ml file looks at the reference observed soil moisture data.
 
-# Other folders
+*Other folders*
 
 Global Comparison:
 
@@ -24,3 +24,6 @@ Combining Study Areas:
 
 This folder contains codes used for making plots of evaluation steps for the combined study areas.
 
+*Citation*
+
+Feel free to use the codes provided in this repository without the use of a citation.
