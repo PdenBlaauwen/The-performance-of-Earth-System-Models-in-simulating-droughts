@@ -27,3 +27,9 @@ This folder contains codes used for making plots of evaluation steps for the com
 **Citation**
 
 Feel free to use the codes provided in this repository without the use of a citation.
+
+**Additional information**
+
+For additional information I would like to refer you to the repository of the TU Delft to access my report of this research:
+
+https://repository.tudelft.nl/
