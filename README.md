@@ -12,15 +12,15 @@ The SoMo.ml file looks at the reference observed soil moisture data.
 
 **Other folders**
 
-Global Comparison:
+*Global Comparison:*
 
 This folder contains codes used for analyzing the global characteristics of the evaporation output from the Land Surface Models.
 
-Data Exploration:
+*Data Exploration:*
 
 This folder contains codes used for exploring all the Land Surface Model data and the considered reference data sets.
 
-Combining Study Areas:
+*Combining Study Areas:*
 
 This folder contains codes used for making plots of evaluation steps for the combined study areas.
 
